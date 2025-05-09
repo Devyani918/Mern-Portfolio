@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adbe5a6f.css",
+    "main.js": "/static/js/main.d623da0e.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/chatsphere-ss.png": "/static/media/chatsphere-ss.2242ffdf27b001014bd3.png",
+    "static/media/chrono-chat.png": "/static/media/chrono-chat.0b07408ee90d05107645.png",
+    "static/media/resume.pdf": "/static/media/resume.86de52ff5b910767eb16.pdf",
+    "static/media/contactus-img.webp": "/static/media/contactus-img.e5368102d48dae3cba4b.webp",
+    "index.html": "/index.html",
+    "main.adbe5a6f.css.map": "/static/css/main.adbe5a6f.css.map",
+    "main.d623da0e.js.map": "/static/js/main.d623da0e.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adbe5a6f.css",
+    "static/js/main.d623da0e.js"
+  ]
+}
